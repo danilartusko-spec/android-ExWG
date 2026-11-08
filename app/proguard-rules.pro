@@ -1,0 +1,5 @@
+-keep class org.amnezia.awg.GoBackend { *; }
+-keep class org.amnezia.awg.backend.GoBackend$VpnService { *; }
+-keepclassmembers class * { native <methods>; }
+-dontwarn javax.annotation.**
+-keepattributes SourceFile,LineNumberTable

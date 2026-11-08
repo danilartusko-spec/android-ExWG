@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Native curved X, inside the adaptive icon safe zone. No opaque square. -->
+    <path android:fillColor="#667BFF" android:pathData="M25,28 C42,26 49,43 56,53 C66,68 74,78 84,79 C67,84 57,69 50,57 C39,39 34,31 25,28 Z" />
+    <path android:fillColor="#9864EF" android:pathData="M50,51 C61,64 70,76 84,79 C67,84 57,69 50,57 Z" />
+    <path android:fillColor="#4666DC" android:pathData="M24,81 C38,82 43,61 51,49 C62,32 71,25 84,27 C71,31 62,48 56,59 C45,79 36,86 24,81 Z" />
+    <path android:fillColor="#63DCC6" android:pathData="M24,81 C38,81 43,60 51,48 C60,35 69,26 81,27 C68,34 61,49 55,59 C44,79 36,85 24,81 Z" />
+    <path android:fillColor="#72B4F4" android:pathData="M24,81 C38,81 43,60 51,48 L53,49 C45,64 40,82 24,81 Z" />
+    <path android:fillColor="#C09BF9" android:pathData="M54,48 C62,35 71,27 81,27 C69,32 62,46 57,55 Z" />
+    <path android:fillColor="#BEFAE5" android:pathData="M36,74 C43,67 45,57 52,47 C60,35 67,30 72,29 C62,36 57,44 53,50 C46,61 43,71 36,74 Z" />
+</vector>
